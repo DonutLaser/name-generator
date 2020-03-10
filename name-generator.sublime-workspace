@@ -1,0 +1,1464 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"for",
+				"for\tfor (…) {…}"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "public/index.html",
+			"settings":
+			{
+				"buffer_size": 483,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/App.vue",
+			"settings":
+			{
+				"buffer_size": 872,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/components/BaseButton.vue",
+			"settings":
+			{
+				"buffer_size": 591,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/components/ButtonConsonant.vue",
+			"settings":
+			{
+				"buffer_size": 575,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/components/NamePreview.vue",
+			"settings":
+			{
+				"buffer_size": 779,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/components/ButtonAny.vue",
+			"settings":
+			{
+				"buffer_size": 604,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"edi",
+				"Project: Edit Project"
+			],
+			[
+				"spaces",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"mark",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"eidpro",
+				"Project: Edit Project"
+			],
+			[
+				"eid",
+				"Project: Edit Project"
+			],
+			[
+				"ssjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"rena",
+				"Rename File"
+			],
+			[
+				"space",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"ren",
+				"Rename File"
+			],
+			[
+				"edpro",
+				"Project: Edit Project"
+			],
+			[
+				"edit",
+				"Project: Edit Project"
+			],
+			[
+				"js",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"json",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"ma",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"rename",
+				"Rename File"
+			],
+			[
+				"editop",
+				"Project: Edit Project"
+			],
+			[
+				"editproj",
+				"Project: Edit Project"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"fix",
+				"ESLint Fix: Fix this file"
+			],
+			[
+				"moch",
+				"Mocha Test Runner: Show output panel"
+			],
+			[
+				"mocha",
+				"Mocha Test Runner: Run tests"
+			],
+			[
+				"installp",
+				"Package Control: Install Package"
+			],
+			[
+				"lint",
+				"SublimeLinter: Reload SublimeLinter and its Plugins"
+			],
+			[
+				"hex",
+				"HexViewer: Toggle Hex View"
+			],
+			[
+				"lin",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"linter",
+				"SublimeLinter: Goto Error"
+			],
+			[
+				"linst",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"resour",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"sss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"mar",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"jsonp",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"ssjo",
+				"Set Syntax: JSON"
+			],
+			[
+				"type",
+				"Set Syntax: TypeScript"
+			],
+			[
+				"html",
+				"Set Syntax: HTML (Angular.js)"
+			],
+			[
+				"ssht",
+				"Set Syntax: HTML (Angular.js)"
+			],
+			[
+				"ssan",
+				"Set Syntax: HTML (Angular.js)"
+			],
+			[
+				"h",
+				"HexViewer: Toggle Hex View"
+			],
+			[
+				"he",
+				"HexViewer: Toggle Hex View"
+			],
+			[
+				"htm",
+				"HTMLBeautify"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"rmove",
+				"Package Control: Remove Package"
+			],
+			[
+				"remoe",
+				"Package Control: Remove Package"
+			],
+			[
+				"ssjava",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"json prett",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"ssjso",
+				"Set Syntax: JSON"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: remoe",
+				"Package Control: Remove Package"
+			],
+			[
+				"esl",
+				"ESLint"
+			],
+			[
+				"eslint",
+				"ESLint"
+			],
+			[
+				"isntall",
+				"Package Control: Install Package"
+			],
+			[
+				"json pret",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"json prettyr",
+				"Pretty JSON: Minify (compress) JSON"
+			],
+			[
+				"json pretty",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"pret",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"ssdoc",
+				"Set Syntax: Dockerfile"
+			],
+			[
+				"ssbat",
+				"Set Syntax: Batch File"
+			],
+			[
+				"SSDO",
+				"Set Syntax: Dockerfile"
+			],
+			[
+				"ssc",
+				"Set Syntax: C++"
+			],
+			[
+				"sspyt",
+				"Set Syntax: Python"
+			],
+			[
+				"sspy",
+				"Set Syntax: Python"
+			],
+			[
+				"sspyto",
+				"Set Syntax: Python"
+			],
+			[
+				"ssbas",
+				"Set Syntax: Bourne Again Shell (bash)"
+			],
+			[
+				"ssdo",
+				"Set Syntax: Dockerfile"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 365.0,
+		"history":
+		[
+			"git",
+			"${project_path}",
+			"project_path",
+			"editorconfig",
+			"dir",
+			"ls",
+			"echo",
+			"pwd"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Projektai/handmade/name-generator"
+	],
+	"file_history":
+	[
+		"/D/Projektai/handmade/name-generator/src/components/NamePreview.vue",
+		"/D/Projektai/handmade/name-generator/public/style.css",
+		"/D/Projektai/handmade/name-generator/src/App.vue",
+		"/D/Projektai/handmade/name-generator/src/main.js",
+		"/D/Projektai/handmade/name-generator/name-generator.sublime-project",
+		"/D/Projektai/dycode/docs.sublime-project",
+		"/D/Projektai/dycode/src/docs/cognitoUserCreationScript/replaceAccount.js",
+		"/W/docs/dynamoDBtoElastic/dynamoDBtoElastic.js",
+		"/W/docs/clean-staging.js",
+		"/W/docs/cognitoUserCreationScript/replaceAccount.js",
+		"/W/docs/compareS3WithDynamoDB/compare.js",
+		"/W/docs/cognitoUserCreationScript/cognitoUserCreationScript.js",
+		"/C/Users/Labeling/Documents/Work/src/docs/cognitoUserCreationScript/replacedAccounts.csv",
+		"/C/Users/Labeling/Documents/Work/src/docs/cognitoUserCreationScript/replacedDocuments.csv",
+		"/W/docs/copy-from-s3.js",
+		"/W/PrepareImage/tools.js",
+		"/C/Users/Labeling/.npmrc",
+		"/W/pull-requests-tests-temp/.npmrc",
+		"/W/pull-requests-tests-temp/.github/workflows/clean.yml",
+		"/W/pull-requests-tests-temp/.github/workflows/release.yml",
+		"/W/docs/package.json",
+		"/W/docs/README.md",
+		"/W/docs/BranchingModel/README.md",
+		"/W/WorkerAPI/routes/document.js",
+		"/W/WorkerAPI/routes/template.js",
+		"/W/DePaperAPI/routes/rivile.js",
+		"/W/DePaperAPI/routes/processed.js",
+		"/W/DePaperAPI/routes/inbox.js",
+		"/W/DePaperAPI/routes/export.js",
+		"/W/DePaperAPI/routes/documents.js",
+		"/W/DePaperAPI/routes/companies.js",
+		"/W/DePaperAPI/routes/centas.js",
+		"/W/DePaperAPI/routes/allocations.js",
+		"/W/WorkerAPI/routes/companies.js",
+		"/W/WorkerAPI/routes/cut.js",
+		"/W/WorkerAPI/routes/registercompany.js",
+		"/W/get_dataset/get_dataset.js",
+		"/C/Users/Labeling/Documents/Work/docs.sublime-project",
+		"/C/Users/Labeling/Documents/Work/src/EmailParser/.github/workflows/release.yml",
+		"/C/Users/Labeling/Documents/Work/src/EmailParser/.github/workflows/master.yml",
+		"/C/Users/Labeling/Documents/Work/src/EmailParser/.github/workflows/test.yml",
+		"/C/Users/Labeling/Documents/Work/src/EmailParser/index.js",
+		"/C/Users/Labeling/Documents/Work/emailparser.sublime-project",
+		"/C/Users/Labeling/Documents/Work/src/EmailParser/package.json",
+		"/W/DocParser/package.json",
+		"/W/DocParser/Readme.md",
+		"/C/Users/Labeling/Documents/Work/src/EmailParser/README.md",
+		"/C/Users/Labeling/Documents/Work/src/EmailParser/test/bootstrap.js",
+		"/C/Users/Labeling/Documents/Work/src/EmailParser/config.js",
+		"/C/Users/Labeling/Documents/Work/src/EmailParser/conf-test.js",
+		"/C/Users/Labeling/Documents/Work/src/EmailParser/conf-prod.js",
+		"/C/Users/Labeling/Documents/Work/src/EmailParser/conf-dev.js",
+		"/C/Users/Labeling/Documents/Work/src/DePaper/.github/workflows/master.yml",
+		"/C/Users/Labeling/Documents/Work/src/DePaper/.github/workflows/release.yml",
+		"/C/Users/Labeling/Documents/Work/src/DePaper/.github/workflows/test.yml",
+		"/C/Users/Labeling/Documents/Work/src/DePaper/src/environments/environment.ts",
+		"/W/Approve/README.md",
+		"/C/Users/Labeling/Documents/Work/src/DePaper/README.md",
+		"/W/Labeling/README.md",
+		"/C/Users/Labeling/Documents/Work/src/DePaper/src/app/app.component.spec.ts",
+		"/C/Users/Labeling/Documents/Work/src/DePaper/package.json",
+		"/W/Labeling/src/karma.conf.js",
+		"/C/Users/Labeling/Documents/Work/src/DePaper/src/karma.conf.js",
+		"/W/Labeling/package.json",
+		"/C/Users/Labeling/Documents/Work/src/DePaper/src/app/acc.service.spec.ts",
+		"/C/Users/Labeling/Documents/Work/src/DePaper/src/app/backend.service.spec.ts",
+		"/C/Users/Labeling/Documents/Work/src/DePaper/src/app/route.service.spec.ts",
+		"/C/Users/Labeling/Documents/Work/src/DePaper/src/app/export/export.component.spec.ts",
+		"/C/Users/Labeling/Documents/Work/src/DePaper/src/app/header/header.component.spec.ts",
+		"/C/Users/Labeling/Documents/Work/src/DePaper/src/app/inbox/inbox.component.spec.ts",
+		"/C/Users/Labeling/Documents/Work/src/DePaper/src/app/login/login.component.spec.ts",
+		"/C/Users/Labeling/Documents/Work/src/DePaper/src/app/shell/shell.component.spec.ts",
+		"/C/Users/Labeling/Documents/Work/src/DePaper/src/app/auth-guard.service.spec.ts",
+		"/C/Users/Labeling/Documents/Work/src/DePaper/src/app/list-search.pipe.spec.ts",
+		"/C/Users/Labeling/Documents/Work/src/DePaper/src/app/message-modal/message-modal.component.spec.ts",
+		"/C/Users/Labeling/Documents/Work/src/DePaper/src/app/export-settings-modal/export-settings-modal.component.spec.ts",
+		"/C/Users/Labeling/Documents/Work/src/DePaper/src/app/warehouse-select-modal/warehouse-select-modal.component.spec.ts",
+		"/C/Users/Labeling/Documents/Work/src/DePaper/src/tsconfig.spec.json",
+		"/W/Labeling/e2e/protractor.conf.js",
+		"/W/Labeling/e2e/src/app.e2e-spec.ts",
+		"/C/Users/Labeling/Documents/Work/src/DePaper/e2e/src/app.e2e-spec.ts",
+		"/W/Labeling/e2e/tsconfig.e2e.json",
+		"/C/Users/Labeling/Documents/Work/src/DePaper/e2e/protractor.conf.js",
+		"/W/Labeling/.github/workflows/master.yml",
+		"/W/Labeling/.github/workflows/release.yml",
+		"/W/Labeling/.github/workflows/test.yml",
+		"/W/DePaper/.github/workflows/release.yml",
+		"/W/DePaper/.github/workflows/test.yml",
+		"/W/DePaper/.github/workflows/master.yml",
+		"/C/Users/Labeling/Documents/Work/depaper.sublime-project",
+		"/C/Users/Labeling/Documents/Work/src/Approve/src/app/app.component.ts",
+		"/W/Labeling/src/app/app.component.spec.ts",
+		"/C/Users/Labeling/Documents/Work/src/Approve/src/app/app.module.ts",
+		"/C/Users/Labeling/Documents/Work/src/Approve/src/app/table/table.component.ts",
+		"/C/Users/Labeling/Documents/Work/src/Approve/package.json",
+		"/C/Users/Labeling/Documents/Work/src/Approve/e2e/protractor.conf.js",
+		"/C/Users/Labeling/Documents/Work/src/Approve/src/scripts/filterNumber.ts",
+		"/C/Users/Labeling/Documents/Work/src/Approve/src/scripts/filterIBAN.ts",
+		"/C/Users/Labeling/Documents/Work/src/Approve/.github/workflows/release.yml",
+		"/C/Users/Labeling/Documents/Work/src/Approve/.github/workflows/master.yml",
+		"/C/Users/Labeling/Documents/Work/src/Approve/.github/workflows/test.yml",
+		"/C/Users/Labeling/Documents/Work/src/Approve/README.md",
+		"/W/Approve/e2e/protractor.conf.js",
+		"/C/Users/Labeling/Documents/Work/src/Approve/src/app/app.component.spec.ts",
+		"/C/Users/Labeling/Documents/Work/approve.sublime-project",
+		"/W/Approve/.github/workflows/test.yml",
+		"/W/Approve/.github/workflows/release.yml",
+		"/W/Approve/.github/workflows/master.yml",
+		"/C/Users/Labeling/Documents/Work/src/Approve/src/test.ts",
+		"/W/Labeling/src/test.ts",
+		"/C/Users/Labeling/Documents/Work/src/Approve/src/karma.conf.js",
+		"/C/Users/Labeling/Documents/Work/src/Approve/src/app/backend.service.spec.ts",
+		"/C/Users/Labeling/Documents/Work/src/Approve/src/app/main.service.spec.ts",
+		"/C/Users/Labeling/Documents/Work/src/Approve/src/app/table/table.component.spec.ts",
+		"/C/Users/Labeling/Documents/Work/src/Approve/src/app/confirm-modal/confirm-modal.component.spec.ts",
+		"/C/Users/Labeling/Documents/Work/src/Approve/src/app/reject-modal/reject-modal.component.spec.ts",
+		"/C/Users/Labeling/Documents/Work/src/Approve/src/app/response-modal/response-modal.component.spec.ts",
+		"/C/Users/Labeling/Documents/Work/src/Approve/src/app/row-highlight/row-highlight.component.spec.ts",
+		"/C/Users/Labeling/Documents/Work/src/Approve/src/tsconfig.spec.json",
+		"/W/Labeling/src/tsconfig.spec.json",
+		"/C/Users/Labeling/Documents/Work/src/Approve/e2e/src/app.e2e-spec.ts",
+		"/W/Approve/package.json",
+		"/C/Users/Labeling/Documents/Work/src/Approve/src/app/backend.service.ts",
+		"/W/Worker/src/app/main/main.component.html",
+		"/W/Worker/src/app/main/main.component.ts",
+		"/C/Users/Labeling/Documents/Work/src/Approve/src/app/app.component.html",
+		"/C/Users/Labeling/Documents/Work/src/Approve/src/app/row-highlight/row-highlight.component.scss",
+		"/C/Users/Labeling/Documents/Work/src/Approve/src/app/table/table.component.scss"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "public/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 483,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								391,
+								391
+							]
+						],
+						"settings":
+						{
+							"SL.19.region_keys":
+							[
+							],
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/App.vue",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 872,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								575,
+								575
+							]
+						],
+						"settings":
+						{
+							"SL.24.region_keys":
+							[
+								"sublime_linter.protected_regions"
+							],
+							"SL.28.region_keys":
+							[
+								"sublime_linter.protected_regions"
+							],
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/Vuejs Complete Package/vue.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "src/components/BaseButton.vue",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 591,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9,
+								9
+							]
+						],
+						"settings":
+						{
+							"SL.31.region_keys":
+							[
+								"sublime_linter.protected_regions"
+							],
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/Vuejs Complete Package/vue.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/components/ButtonConsonant.vue",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 575,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								248,
+								248
+							]
+						],
+						"settings":
+						{
+							"SL.32.region_keys":
+							[
+								"sublime_linter.protected_regions"
+							],
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/Vuejs Complete Package/vue.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/components/NamePreview.vue",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 779,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								51,
+								51
+							]
+						],
+						"settings":
+						{
+							"SL.36.region_keys":
+							[
+								"sublime_linter.protected_regions"
+							],
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/Vuejs Complete Package/vue.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/components/ButtonAny.vue",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 604,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								260,
+								260
+							]
+						],
+						"settings":
+						{
+							"SL.34.region_keys":
+							[
+							],
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/Vuejs Complete Package/vue.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 450.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 314.0
+	},
+	"output.Terminus":
+	{
+		"height": 271.0
+	},
+	"output.exec":
+	{
+		"height": 461.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.hex_viewer_inspector":
+	{
+		"height": 96.0
+	},
+	"output.mocha_tests":
+	{
+		"height": 151.0
+	},
+	"pinned_build_system": "",
+	"project": "name-generator.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"name",
+				"src\\components\\NamePreview.vue"
+			],
+			[
+				"buttonan",
+				"src\\components\\ButtonAny.vue"
+			],
+			[
+				"style",
+				"public\\style.css"
+			],
+			[
+				"app",
+				"src\\App.vue"
+			],
+			[
+				"index",
+				"public\\index.html"
+			],
+			[
+				"dyn",
+				"dynamoDBtoElastic\\dynamoDBtoElastic.js"
+			],
+			[
+				"replace",
+				"cognitoUserCreationScript\\replaceAccount.js"
+			],
+			[
+				"clea",
+				"clean-staging.js"
+			],
+			[
+				"clean",
+				"clean-staging.js"
+			],
+			[
+				"c",
+				"compareS3WithDynamoDB\\compare.js"
+			],
+			[
+				"s3",
+				"copy-from-s3.js"
+			],
+			[
+				"db",
+				"dynamoDBtoElastic\\dynamoDBtoElastic.js"
+			],
+			[
+				"cop",
+				"copy-from-s3.js"
+			],
+			[
+				"cognit",
+				"cognitoUserCreationScript\\cognitoUserCreationScript.js"
+			],
+			[
+				"",
+				"copy-from-s3.js"
+			],
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"read",
+				"README.md"
+			],
+			[
+				"readme",
+				"README.md"
+			],
+			[
+				"remade",
+				"BranchingModel\\README.md"
+			],
+			[
+				"master",
+				".github\\workflows\\master.yml"
+			],
+			[
+				"releas",
+				".github\\workflows\\release.yml"
+			],
+			[
+				"test.yml",
+				".github\\workflows\\test.yml"
+			],
+			[
+				"inde",
+				"index.js"
+			],
+			[
+				"mast",
+				".github\\workflows\\master.yml"
+			],
+			[
+				"packa",
+				"package.json"
+			],
+			[
+				"maste",
+				".github\\workflows\\master.yml"
+			],
+			[
+				"rele",
+				".github\\workflows\\release.yml"
+			],
+			[
+				"test",
+				".github\\workflows\\test.yml"
+			],
+			[
+				"conf-dev",
+				"conf-dev.js"
+			],
+			[
+				"prod",
+				"prod.json"
+			],
+			[
+				"dev.json",
+				"dev.json"
+			],
+			[
+				"relea",
+				".github\\workflows\\release.yml"
+			],
+			[
+				"envi",
+				"src\\environments\\environment.ts"
+			],
+			[
+				"readm",
+				"README.md"
+			],
+			[
+				"app.spec",
+				"src\\app\\app.component.spec.ts"
+			],
+			[
+				"paca",
+				"package.json"
+			],
+			[
+				"karm",
+				"src\\karma.conf.js"
+			],
+			[
+				"spec",
+				"src\\app\\warehouse-select-modal\\warehouse-select-modal.component.spec.ts"
+			],
+			[
+				"app.spe",
+				"e2e\\src\\app.e2e-spec.ts"
+			],
+			[
+				"prot",
+				"e2e\\protractor.conf.js"
+			],
+			[
+				"app.component.ts",
+				"src\\app\\app.component.ts"
+			],
+			[
+				"app.cts",
+				"src\\app\\app.component.ts"
+			],
+			[
+				"test.y",
+				".github\\workflows\\test.yml"
+			],
+			[
+				"mas",
+				".github\\workflows\\master.yml"
+			],
+			[
+				"release",
+				".github\\workflows\\release.yml"
+			],
+			[
+				"pro",
+				"e2e\\protractor.conf.js"
+			],
+			[
+				"filternumb",
+				"src\\scripts\\filterNumber.ts"
+			],
+			[
+				"fil",
+				"src\\scripts\\filterIBAN.ts"
+			],
+			[
+				"tablets",
+				"src\\app\\table\\table.component.ts"
+			],
+			[
+				"app.compots",
+				"src\\app\\app.component.ts"
+			],
+			[
+				"app.compo",
+				"src\\app\\app.component.ts"
+			],
+			[
+				"app.compone",
+				"src\\app\\app.component.spec.ts"
+			],
+			[
+				"karma",
+				"src\\karma.conf.js"
+			],
+			[
+				"sepc",
+				"src\\app\\main.service.spec.ts"
+			],
+			[
+				"back",
+				"src\\app\\backend.service.ts"
+			],
+			[
+				"app.ts",
+				"src\\app\\app.component.ts"
+			],
+			[
+				"appmou",
+				"src\\app\\app.module.ts"
+			],
+			[
+				"ang",
+				"angular.json"
+			],
+			[
+				"angua",
+				"angular.json"
+			],
+			[
+				"row-hiscss",
+				"src\\app\\row-highlight\\row-highlight.component.scss"
+			],
+			[
+				"app.html",
+				"src\\app\\app.component.html"
+			],
+			[
+				"table.html",
+				"src\\app\\table\\table.component.html"
+			],
+			[
+				"table.ts",
+				"src\\app\\table\\table.component.ts"
+			],
+			[
+				"app.scs",
+				"src\\app\\app.component.scss"
+			],
+			[
+				"tablescss",
+				"src\\app\\table\\table.component.scss"
+			],
+			[
+				"table",
+				"src\\app\\table\\table.component.ts"
+			],
+			[
+				"app.comp",
+				"src\\app\\app.component.html"
+			],
+			[
+				"conf-test",
+				"conf-test.js"
+			],
+			[
+				"clow",
+				"utils\\cloudwatch.js"
+			],
+			[
+				"cloud",
+				"utils\\cloudwatch.js"
+			],
+			[
+				"rel",
+				".github\\workflows\\release.yml"
+			],
+			[
+				"clou",
+				"mocks\\cloudwatch-mock.js"
+			],
+			[
+				"apptest",
+				"test\\appTest.js"
+			],
+			[
+				"pa",
+				"package.json"
+			],
+			[
+				"rea",
+				"README.md"
+			],
+			[
+				"pac",
+				"package.json"
+			],
+			[
+				"appt",
+				"test\\appTest.js"
+			],
+			[
+				"boo",
+				"test\\bootstrap.js"
+			],
+			[
+				"appmock",
+				"mocks\\app-mock.js"
+			],
+			[
+				"coud",
+				"utils\\cloudwatch.js"
+			],
+			[
+				"conf",
+				"conf-test.js"
+			],
+			[
+				"appTest",
+				"test\\appTest.js"
+			],
+			[
+				"handler",
+				"test\\handlerTest.js"
+			],
+			[
+				"ap",
+				"app.js"
+			],
+			[
+				"boot",
+				"test\\bootstrap.js"
+			],
+			[
+				"clo",
+				"utils\\cloudwatch.js"
+			],
+			[
+				"d",
+				"dev.json"
+			],
+			[
+				".git",
+				".gitignore"
+			],
+			[
+				"conf-prod",
+				"conf-prod.js"
+			],
+			[
+				"mock",
+				"mocks\\app-mock.js"
+			],
+			[
+				"hanlder",
+				"test\\handlerTest.js"
+			],
+			[
+				"han",
+				"test\\handlerTest.js"
+			],
+			[
+				"indx",
+				"index.js"
+			],
+			[
+				"bootts",
+				"test\\bootstrap.js"
+			],
+			[
+				"sqs",
+				"utils\\sqs.js"
+			],
+			[
+				"app.js",
+				"app.js"
+			],
+			[
+				"appmoc",
+				"mocks\\app-mock.js"
+			],
+			[
+				".gi",
+				".gitignore"
+			],
+			[
+				"pcak",
+				"package.json"
+			],
+			[
+				"pdf",
+				"pdf.js"
+			],
+			[
+				"appte",
+				"test\\appTest.js"
+			],
+			[
+				"idnex",
+				"index.js"
+			],
+			[
+				"confde",
+				"conf-dev.js"
+			],
+			[
+				"confprod",
+				"conf-prod.js"
+			],
+			[
+				"conf-de",
+				"conf-dev.js"
+			],
+			[
+				"dev",
+				"conf-dev.js"
+			],
+			[
+				"cutu",
+				"test\\cututilsTest.js"
+			],
+			[
+				"app.",
+				"app.js"
+			],
+			[
+				"appTe",
+				"test\\appTest.js"
+			],
+			[
+				"hand",
+				"test\\handlerTest.js"
+			],
+			[
+				"cuti",
+				"cututils.js"
+			],
+			[
+				"cutt",
+				"test\\cututilsTest.js"
+			],
+			[
+				"pdfmock",
+				"mocks\\pdf-mock.js"
+			],
+			[
+				"dyna",
+				"utils\\dynamodb.js"
+			],
+			[
+				"appmo",
+				"mocks\\app-mock.js"
+			],
+			[
+				"a",
+				"app.js"
+			],
+			[
+				"cut",
+				"test\\cututilsTest.js"
+			],
+			[
+				"poa",
+				"package.json"
+			],
+			[
+				"hander",
+				"test\\handlerTest.js"
+			],
+			[
+				"pdf.js",
+				"pdf.js"
+			],
+			[
+				"cututils",
+				"cututils.js"
+			],
+			[
+				"handleT",
+				"test\\handlerTest.js"
+			],
+			[
+				"cu",
+				"cututils.js"
+			],
+			[
+				"apptes",
+				"test\\appTest.js"
+			],
+			[
+				"cutTest",
+				"test\\cututilsTest.js"
+			],
+			[
+				"cutui",
+				"cututils.js"
+			],
+			[
+				"spli",
+				"pdfsplitter.js"
+			],
+			[
+				"dynamo",
+				"utils\\dynamodb.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"depap",
+				"C:\\Users\\Labeling\\Documents\\Work\\depaper.sublime-project"
+			],
+			[
+				"select",
+				"C:\\Users\\Labeling\\Documents\\Work\\selecttemplate.sublime-project"
+			],
+			[
+				"selec",
+				"C:\\Users\\Labeling\\Documents\\Work\\errornotifier.sublime-project"
+			],
+			[
+				"wor",
+				"C:\\Users\\Labeling\\Documents\\Work\\workerapi.sublime-project"
+			],
+			[
+				"depaper",
+				"C:\\Users\\Labeling\\Documents\\Work\\depaperapi.sublime-project"
+			],
+			[
+				"preapare",
+				"C:\\Users\\Labeling\\Documents\\Work\\prepareimage.sublime-project"
+			],
+			[
+				"app",
+				"C:\\Users\\Labeling\\Documents\\Work\\approve.sublime-project"
+			],
+			[
+				"labline",
+				"C:\\Users\\Labeling\\Documents\\Work\\labeling.sublime-project"
+			],
+			[
+				"approve",
+				"C:\\Users\\Labeling\\Documents\\Work\\approve.sublime-project"
+			],
+			[
+				"docparser",
+				"C:\\Users\\Labeling\\Documents\\Work\\docparser.sublime-project"
+			],
+			[
+				"docpare",
+				"C:\\Users\\Labeling\\Documents\\Work\\docparser.sublime-project"
+			],
+			[
+				"worker.",
+				"C:\\Users\\Labeling\\Documents\\Work\\worker.sublime-project"
+			],
+			[
+				"worker",
+				"C:\\Users\\Labeling\\Documents\\Work\\workerapi.sublime-project"
+			],
+			[
+				"email",
+				"C:\\Users\\Labeling\\Documents\\Work\\emailparser.sublime-project"
+			],
+			[
+				"workerapi",
+				"C:\\Users\\Labeling\\Documents\\Work\\workerapi.sublime-project"
+			],
+			[
+				"depaperapi",
+				"C:\\Users\\Labeling\\Documents\\Work\\depaperapi.sublime-project"
+			],
+			[
+				"dep",
+				"C:\\Users\\Labeling\\Documents\\Work\\depaper.sublime-project"
+			],
+			[
+				"",
+				"C:\\Users\\Labeling\\Documents\\Work\\labeling.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 236.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

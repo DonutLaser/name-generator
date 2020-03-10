@@ -1,28 +1,45 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <NamePreview :preview="name" />
+    <div id="toolbar">
+      <ButtonAny @click-event="addLetter" />
+      <ButtonVowel @click-event="addLetter" />
+      <ButtonConsonant @click-event="addLetter" />
+    </div>
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import NamePreview from './components/NamePreview.vue'
+import ButtonAny from './components/ButtonAny.vue'
+import ButtonVowel from './components/ButtonVowel.vue'
+import ButtonConsonant from './components/ButtonConsonant.vue'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    NamePreview,
+    ButtonAny,
+    ButtonVowel,
+    ButtonConsonant
+  },
+  data: function () {
+    return {
+      name: ''
+    }
+  },
+  methods: {
+    addLetter: function (letter) {
+      this.name += letter
+    }
   }
 }
 </script>
 
 <style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
+#toolbar {
+  width: fit-content;
+  margin-left: auto;
+  margin-right: auto;
 }
 </style>
