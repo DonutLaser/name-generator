@@ -1,5 +1,8 @@
 <template>
-  <button @click="onClick">
+  <button
+    class="btn"
+    @click="onClick"
+  >
     {{ name }}
   </button>
 </template>
@@ -21,23 +24,27 @@ export default {
 </script>
 
 <style>
-button {
+.btn {
   background-color: #00000000;
   border: 1px solid black;
   border-radius: 5px;
-  min-height: 64px;
+  height: 64px;
   min-width: 64px;
   font-size: 30px;
   padding: 10px;
   margin: 0 10px 0 10px;
 }
 
-button:hover {
+.btn:hover {
   cursor: pointer;
   background-color: #cccccc77;
 }
 
-button:focus {
+.btn:active {
+  background-color: #aaaaaa77;
+}
+
+.btn:focus {
   outline: none;
 }
 </style>
